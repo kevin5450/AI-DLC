@@ -58,6 +58,7 @@ AGENTS.md       # AI-DLC 에이전트 및 워크스페이스 설명
 - `docs/guide/` — 사용자 가이드
 - `docs/reference/` — 개발자 레퍼런스
 - `docs/guide/harnesses/kiro-cli.md` — Kiro CLI 전용 가이드
+- [AI-DLC v2.10.0 Release Notes](docs/releases/v2.10.0.md) — v2.10.0 핵심 변경사항 및 학습 포인트
 
 ## 라이선스
 
